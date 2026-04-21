@@ -1,0 +1,146 @@
+{
+  "settings": {
+    "name": "Rod Urban F. Velasco",
+    "title": "Virtual Assistant",
+    "location": "Philippines",
+    "summary": "Highly organized and detail-oriented professional seeking an entry-level Virtual Assistant role to contribute to team success.",
+    "profileImage": "https://www.image2url.com/r2/default/images/1776768400059-f8d9911b-9af2-447b-a2cc-1275f950c39e.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:rodurbanvelasco1902@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Data Entry",
+          "Basic Bookkeeping",
+          "Lead Generation",
+          "Social Media Management",
+          "Google Workspace (Email Management, Google Sheets, Google Drive, Google Calendar, Google Docs, Google Slides, Google Forms)",
+          "Microsoft Office (Word, Powerpoint, Excel)",
+          "Computer Literacy",
+          "Microsoft Teams Meeting",
+          "Zoom Meeting",
+          "Copy/Paste",
+          "File/Media Conversion (pdf, docx, png, jpeg)",
+          "Canva Design",
+          "Slack",
+          "Discord",
+          "Viber",
+          "WhatsApp",
+          "Telegram",
+          "Time Management",
+          "Attention to Detail",
+          "Adaptability",
+          "Growth-Oriented",
+          "Initiative",
+          "Reliability"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "Various Platforms",
+          "position": "Social Media Manager (Self-Managed)",
+          "period": "Ongoing",
+          "description": "Managed and maintained a consistent presence across multiple social media platforms, including Facebook, TikTok, Instagram, Threads, and YouTube. Created clear business reports and visual presentations using Word and PowerPoint to understand complex information easily. Managed shared files in Google Drive and maintained an organized Gmail inbox for faster response time."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": false,
+      "title": "Featured Projects",
+      "items": []
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Western Mindanao State University",
+          "degree": "Degree (Expected May 2025)",
+          "period": "Ongoing - 2025"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Registered Mechanical Engineer",
+          "description": "Professional certification."
+        },
+        {
+          "title": "Civil Service Eligibility (Professional)",
+          "description": "Professional certification."
+        },
+        {
+          "title": "Basic Occupational Safety and Health Training (Safety Officer 1 & 2)",
+          "description": "Certification in occupational safety and health."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "rodurbanvelasco1902@gmail.com",
+      "phone": "09300323587",
+      "location": "Philippines"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Achievements",
+        "url": "#achievements"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Rod Urban F. Velasco. All rights reserved."
+  }
+}
